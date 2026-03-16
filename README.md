@@ -1,2 +1,5 @@
 # radix-tree-py
-Zero-dependency Python implementation.
+
+Radix tree (compressed trie) for space-efficient prefix storage
+
+Zero-dependency Python. Stdlib only.
